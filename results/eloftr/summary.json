@@ -1,0 +1,20 @@
+{
+  "pairs": 16500,
+  "pose_estimated_count": 16326,
+  "median_matches": 304.0,
+  "macro_epipolar_precision_pct": 50.04619306867756,
+  "micro_epipolar_precision_pct": 80.74970678830236,
+  "mean_ransac_inlier_pct": 41.8263708149619,
+  "median_matching_ms": 68.59687343239784,
+  "mean_matching_ms": 71.17400253248034,
+  "median_geometry_ms": 36.997854709625244,
+  "timed_pairs": 16500,
+  "failed_input_pairs": 0,
+  "success_5deg_pct": 51.17575757575757,
+  "auc_5deg_pct": 34.496339385731595,
+  "success_10deg_pct": 58.31515151515151,
+  "auc_10deg_pct": 44.93713477888702,
+  "success_20deg_pct": 63.72727272727273,
+  "auc_20deg_pct": 53.195793790832845,
+  "method": "eloftr"
+}

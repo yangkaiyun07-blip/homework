@@ -1,0 +1,4 @@
+# Core: sufficient for SIFT, metadata preparation, evaluation and plotting (Python 3.8+).
+numpy==1.24.4
+opencv-python-headless==4.10.0.84
+matplotlib==3.7.5

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "models/__init__.py",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/models/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "models/superpoint.py",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/models/superpoint.py",
+    "bytes": 8142,
+    "sha256": "a5f7de572b1b1e86e50f3a3704c56779635ddc1a78deeb3b09212baa4042c118"
+  },
+  {
+    "file": "models/superglue.py",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/models/superglue.py",
+    "bytes": 11781,
+    "sha256": "14b2d1bc363fef84c79653df5660389eeb505250cad8faf7507d604ced0a9fad"
+  },
+  {
+    "file": "models/weights/superpoint_v1.pth",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/models/weights/superpoint_v1.pth",
+    "bytes": 5206086,
+    "sha256": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e"
+  },
+  {
+    "file": "models/weights/superglue_outdoor.pth",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/models/weights/superglue_outdoor.pth",
+    "bytes": 48233807,
+    "sha256": "2f5f5e9bb3febf07b69df633c4c3ff7a17f8af26a023aae2b9303d22339195bd"
+  },
+  {
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/magicleap/SuperGluePretrainedNetwork/master/LICENSE",
+    "bytes": 7009,
+    "sha256": "8780b2b1202d7011a5bd76046fb691d04725b08aaa83ec1887a4c3136c3fe898"
+  }
+]

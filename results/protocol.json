@@ -1,0 +1,9 @@
+{
+  "pairs_sha256": "74d0335bbc1d6e0b048d948eb07146c5947bb4f00960e2748ceb9de13959e9d7",
+  "width": 800,
+  "height": 448,
+  "ransac_px": 1.0,
+  "epipolar_px": 3.0,
+  "geometry": "USAC_MAGSAC",
+  "seed": 20261012
+}

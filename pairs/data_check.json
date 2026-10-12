@@ -1,0 +1,10 @@
+{
+  "source": "official RUBIK",
+  "rubik_sha256": "ce73a34fa00d0a375a056ef16d271e8dc5c5947b7cfebe1cb50dbb55fca5ce4c",
+  "selected_pairs": 16500,
+  "groups": 33,
+  "required_unique_images": 20739,
+  "missing_images": 0,
+  "per_group": 0,
+  "calibration": "K1/K2 and rel_pose from RUBIK; metadata used only for file paths/dimensions"
+}

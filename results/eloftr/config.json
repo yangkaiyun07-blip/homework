@@ -1,0 +1,36 @@
+{
+  "command": "run",
+  "data_root": "/data/yangkaiyun/datasets/nuscenes",
+  "metadata_root": null,
+  "pairs": "pairs/rubik_pairs.json",
+  "out": "results",
+  "methods": [
+    "eloftr"
+  ],
+  "model_dir": "/data/yangkaiyun/homework/RUBIK/image_matching_project 2/models/SuperGluePretrainedNetwork",
+  "rubik_root": "/data/yangkaiyun/homework/RUBIK",
+  "checkpoint": "/data/yangkaiyun/homework/RUBIK/detector_free/EfficientLoFTR/weights/eloftr_outdoor.ckpt",
+  "device": "cuda",
+  "width": 800,
+  "height": 448,
+  "nfeatures": 4096,
+  "ratio": 0.75,
+  "mutual": false,
+  "sp_threshold": 0.005,
+  "sg_threshold": 0.2,
+  "ransac_px": 1.0,
+  "epipolar_px": 3.0,
+  "visualize": 20,
+  "warmup": 3,
+  "seed": 20261012,
+  "method": "eloftr",
+  "device_actual": "cuda",
+  "python": "3.8.20 (default, Oct  3 2024, 15:24:27) \n[GCC 11.2.0]",
+  "numpy": "1.24.4",
+  "opencv": "4.10.0",
+  "torch": "2.0.0+cu118",
+  "hardware": "NVIDIA A800 80GB PCIe",
+  "weight_sha256": {
+    "/data/yangkaiyun/homework/RUBIK/detector_free/EfficientLoFTR/weights/eloftr_outdoor.ckpt": "0af6291141c736e75e94b7f8aae4399b77c7731b3f08758212b2cfe370188878"
+  }
+}

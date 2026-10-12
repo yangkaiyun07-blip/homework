@@ -1,0 +1,10 @@
+name: matching_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy==1.24.4
+      - opencv-python-headless==4.10.0.84
+      - matplotlib==3.7.5

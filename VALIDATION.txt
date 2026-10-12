@@ -1,0 +1,5 @@
+Official RUBIK version, 2026-10-12.
+4 unittest cases passed, including synthetic official-manifest prepare -> SIFT -> evaluation -> plots.
+Local official rubik.json parsed: 16500 pairs, 33 groups.
+Core runtime: Python 3.9, NumPy 1.24.4, OpenCV 4.10.0, Matplotlib 3.7.5.
+SIFT matching function unchanged. No real image benchmark or neural model inference was run.

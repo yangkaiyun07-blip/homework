@@ -1,0 +1,7 @@
+baseline,comparison,both_success,baseline_only,comparison_only,both_fail
+sift_nn,superpoint_nn,3803,937,963,10797
+sift_nn,superpoint_superglue,4506,234,4499,7261
+sift_nn,eloftr,4581,159,5041,6719
+superpoint_nn,superpoint_superglue,4616,150,4389,7345
+superpoint_nn,eloftr,4697,69,4925,6809
+superpoint_superglue,eloftr,8067,938,1555,5940

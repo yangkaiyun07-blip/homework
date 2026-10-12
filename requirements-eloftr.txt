@@ -1,0 +1,8 @@
+# Optional ELoFTR imports; install suitable PyTorch 2.x separately.
+einops==0.6.1
+kornia==0.7.2
+loguru==0.5.3
+yacs==0.1.8
+joblib==1.4.2
+pytorch-lightning==1.9.5
+torchmetrics==0.11.4
